@@ -9,6 +9,8 @@
 ---
 ## Ajax stuff
 + https://github.com/blakeembrey/popsicle
++ https://github.com/github/fetch
++ https://www.npmjs.com/package/bluebird-retry
 ---
 ## String related stuff
 ### Paths, URI
