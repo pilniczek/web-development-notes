@@ -16,6 +16,12 @@
 
 ---
 
+## Reactive
++ https://github.com/riot/riot
++ https://github.com/Reactive-Extensions/RxJS
+
+---
+
 ## String related stuff
 
 ### Paths, URI
