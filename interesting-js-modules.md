@@ -1,6 +1,6 @@
 # Interesting JS modules
 
-> List of documented, well-written, non-jquery dependent and **production ready** JS modules installable through NPM.
+> List of documented, well-written, non-jquery dependent and production ready JS modules installable through NPM.
 
 ## Unsorted
 + https://github.com/mikaelbr/mversion
@@ -12,13 +12,13 @@
 
 ## Animation
 + https://github.com/Popmotion/popmotion <br>
-  **The Javascript motion engine. Animation, physics and input tracking. http://popmotion.io**
+  The Javascript motion engine. Animation, physics and input tracking. http://popmotion.io
 + https://github.com/Rich-Harris/ramjet <br>
-  **Morph DOM elements from one state to another with smooth animations and transitions http://www.rich-harris.co.uk/ramjet/**
+  Morph DOM elements from one state to another with smooth animations and transitions http://www.rich-harris.co.uk/ramjet/
 
 ## Browser Utils
 + https://github.com/KidkArolis/location-bar <br>
-  **A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.**
+  A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.
 
 ---
 
