@@ -1,4 +1,7 @@
 # Interesting JS modules
+
+> List of documented, well-written and **production ready** JS modules installable through NPM.
+
 ## Unsorted
 + https://github.com/mikaelbr/mversion
 + https://github.com/skratchdot/npm-dview
