@@ -1,6 +1,6 @@
 # Interesting JS modules
 
-> List of documented, well-written and **production ready** JS modules installable through NPM.
+> List of documented, well-written, non-jquery dependent and **production ready** JS modules installable through NPM.
 
 ## Unsorted
 + https://github.com/mikaelbr/mversion
@@ -9,6 +9,12 @@
 + https://github.com/alanshaw/david
 + https://github.com/trentm/node-bunyan
 + https://github.com/davepacheco/node-verror
+
+## Animation
++ https://github.com/Popmotion/popmotion <br>
+  **The Javascript motion engine. Animation, physics and input tracking. http://popmotion.io**
++ https://github.com/Rich-Harris/ramjet <br>
+  **Morph DOM elements from one state to another with smooth animations and transitions http://www.rich-harris.co.uk/ramjet/**
 
 ## Browser Utils
 + https://github.com/KidkArolis/location-bar <br>
