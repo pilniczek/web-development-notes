@@ -12,11 +12,11 @@
 
 ## Animation
 + https://github.com/Popmotion/popmotion <br>
-  The Javascript motion engine. Animation, physics and input tracking. http://popmotion.io
+  The Javascript motion engine. Animation, physics and input tracking.
 + https://github.com/Rich-Harris/ramjet <br>
-  Morph DOM elements from one state to another with smooth animations and transitions http://www.rich-harris.co.uk/ramjet/
+  Morph DOM elements from one state to another with smooth animations and transitions 
 
-## Browser Utils
+## Utils
 + https://github.com/KidkArolis/location-bar <br>
   A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.
 
