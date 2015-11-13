@@ -7,6 +7,9 @@
 + https://github.com/trentm/node-bunyan
 + https://github.com/davepacheco/node-verror
 
+## Browser Utils
++ https://github.com/KidkArolis/location-bar - **A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.**
+
 ---
 
 ## Ajax stuff
