@@ -8,7 +8,8 @@
 + https://github.com/davepacheco/node-verror
 
 ## Browser Utils
-+ https://github.com/KidkArolis/location-bar - **A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.**
++ https://github.com/KidkArolis/location-bar <br>
+  **A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.**
 
 ---
 
