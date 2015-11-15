@@ -15,6 +15,8 @@
   The Javascript motion engine. Animation, physics and input tracking.
 + https://github.com/Rich-Harris/ramjet <br>
   Morph DOM elements from one state to another with smooth animations and transitions 
++ https://github.com/lmgonzalves/segment
+  A little JavaScript class (without dependencies) to draw and animate SVG path strokes
 
 ## Utils
 + https://github.com/KidkArolis/location-bar <br>
