@@ -19,6 +19,8 @@
   A little JavaScript class (without dependencies) to draw and animate SVG path strokes
 
 ## Utils
++ https://github.com/callmecavs/jump.js <br>
+  A small, modern, dependency-free smooth scrolling library.
 + https://github.com/KidkArolis/location-bar <br>
   A microlib for managing browser's location bar via pushState and hashChange APIs. This lib makes it easy to listen to URL changes and update the URL.
 
